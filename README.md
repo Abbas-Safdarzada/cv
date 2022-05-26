@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
    <meta charset="utf-8">
@@ -7,7 +6,7 @@
 
   <body>
     <table cellspacing="20">
-      <td><img src="images/Abbas.png" alt="Abbas"></td>
+      <td><img src="Abbas.png" alt="Abbas"></td>
       <td><h1>Abbas Safdarzada</h1>
       <p>I use <strong><a href="https://codepen.io"><em>Codepen</em></a></strong>.</p>
       <p>I am student and a good boy.</p></td>
