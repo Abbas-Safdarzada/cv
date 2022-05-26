@@ -60,9 +60,9 @@
 
      <hr size="3">
     <a href="things-i-do-everyday.html">Things I do everyday</a>
-    <hr size"3" noshade>
+    <hr size="3" noshade>
     <a href="contact-me.html">Contact Me</a><br>
-    <hr size"3" noshade>
+    <hr size="3" noshade>
     <a href="inputs.html">inputs of a from</a>
 
 
